@@ -1,4 +1,4 @@
-"Using the folder named task_3";
+"use strict";
 const $ = require("jquery");
 import "./footer.css";
 
